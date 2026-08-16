@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "PUBG:BATTLEGROUND", // required by Discord API, not shown in the client
-             // this is what people actually see
-        type: 3,               // Custom
+        state: "PUBG:BATTLEGROUND",    // this is what people actually see
+        type: 0,               // Custom
       },
     ],
   },
