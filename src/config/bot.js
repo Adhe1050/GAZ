@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "PUBG: BATTLEGROUNDS", // required by Discord API, not shown in the client
+        name: "🎮 PUBG: BATTLEGROUNDS", // required by Discord API, not shown in the client
         state: "GAZ JAYA",    // this is what people actually see
-        type: 4,               // Custom
+        type: 0,               // Custom
       },
     ],
   },
